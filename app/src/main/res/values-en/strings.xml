@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplication</string>
+    <string name="textLabel">Type your name</string>
+    <string name="textEditName">"I.e. Pedro Cabrale "</string>
+    <string name="texButton">Execute</string>
+    <string name="texLabel2">Welcome</string>
+</resources>

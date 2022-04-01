@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AplicaçãoAula_01_04</string>
+
+    <string name="textLabel">Informe o seu nome</string>
+    <string name="textEditName">Pedro Cabrale</string>
+    <string name="ss"> Enviar</string>
+    <string name="texButton">Enviar</string>
+    <string name="textMessage"> Seja Bem-Vindo(a)!</string>
+    <string name="texLabel2">Seja Bem-Vindo(a)!!</string>
+
+</resources>
